@@ -1,0 +1,10 @@
+html, body {
+    height: 100%;
+ }
+ 
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#map {
+    height: 98%; 
+}
